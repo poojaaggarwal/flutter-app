@@ -1,6 +1,6 @@
 # Sample Flutter Application
 
-Sample Flutter application.
+Flutter application.
 
 ## Getting Started
 
