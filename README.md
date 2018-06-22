@@ -1,6 +1,6 @@
-# myfirstflutterapp
+# Sample Flutter Application
 
-A new Flutter application.
+Sample Flutter application.
 
 ## Getting Started
 
