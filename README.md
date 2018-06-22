@@ -1,4 +1,4 @@
-# Flutter _sample
+# Flutter
 
 Sample flutter project for GDG New Delhi's Flutter Extended registration
 
