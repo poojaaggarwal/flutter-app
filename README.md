@@ -1,6 +1,6 @@
 # Sample Flutter Application
 
-Flutter application.
+Sample flutter project for GDG New Delhi's Flutter Extended registration
 
 ## Getting Started
 
